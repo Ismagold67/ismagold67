@@ -14,7 +14,7 @@ Prentendo futuramente me especializar em back-end, e por enquanto tenho focado n
 
 # Habilidades
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ismagold67&layout=compact)
 
 # Tecnologias que eu uso, e que estou aprendendo
 

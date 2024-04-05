@@ -2,7 +2,7 @@
 
 # Ismael Roberto L Gonçalves
 
-Sou um amador em tecnologia, tentando saber de alguma coisa, e fazendo o meu melhor para que isso aconteça. Moro em Rondônia, na cidade de Porto Velho, tenho 23 anos e comecei a estudar tecnologia em 2021, na época da Pandemia.
+Sou um amador em tecnologia, tentando saber de alguma coisa, e fazendo o meu melhor para que isso aconteça. Moro em Rondônia, na cidade de Porto Velho, tenho 24 anos e comecei a estudar tecnologia em 2021, na época da Pandemia.
 
 Prentendo futuramente me especializar em back-end, e por enquanto tenho focado nas tecnologias do front para entender melhor os conceitos iniciais, como as diferentes formas de codificar usando sintaxes distintas com linguagens de programação differentes. Atualmente tenho feito alguns projetos usando HTML, CSS e JavaScript, e tenho começado a entrar na área de banco de dados com MySQL e testanto outras linguagens de programação, como Java, Python e frameworks como o Angular.
 
